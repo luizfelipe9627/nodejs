@@ -1,7 +1,7 @@
 # Node.JS 
 <img src="https://wallpaperaccess.com/full/5393409.jpg" alt="Node.JS">
 
-## 📄 Descrição
+## :thought_balloon: Conceito
 O Node. js pode ser definido como um ambiente de execução Javascript server-side. Isso significa que com o Node. js é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução, como estamos acostumados.
 ## 💻 Tecnologias utilizadas
 
