@@ -1,0 +1,13 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Aprendendo sobre Node.JS e NPM.",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Felipe Silva",
+  "license": "MIT"
+}
